@@ -11,13 +11,13 @@
     "verify",
     "test"
   ],
-  "homepage": "https://github.com/storybookjs/storybook#readme",
+  "homepage": "https://github.com/storybookjs/storybook/tree/master/addons/a11y",
   "bugs": {
     "url": "https://github.com/storybookjs/storybook/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/storybookjs/storybook.git",
+    "url": "https://github.com/storybookjs/storybook.git",
     "directory": "addons/a11y"
   },
   "license": "MIT",
@@ -84,5 +84,8 @@
     "unsupportedFrameworks": [
       "react-native"
     ]
+  },
+  "engines": {
+    "node": ">=10.13.0"
   }
 }

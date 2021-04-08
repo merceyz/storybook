@@ -5,14 +5,14 @@
   "keywords": [
     "storybook"
   ],
-  "homepage": "https://github.com/storybookjs/storybook/tree/master/lib/core",
+  "homepage": "https://github.com/storybookjs/storybook/tree/master/lib/core-client",
   "bugs": {
     "url": "https://github.com/storybookjs/storybook/issues"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/storybookjs/storybook.git",
-    "directory": "lib/core"
+    "directory": "lib/core-client"
   },
   "license": "MIT",
   "main": "dist/cjs/index.js",
@@ -66,5 +66,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "7739aace24e8614f2acc9972b2ae44cf7f228c18"
+  "gitHead": "7739aace24e8614f2acc9972b2ae44cf7f228c18",
+  "engines": {
+    "node": ">=10.13.0"
+  }
 }

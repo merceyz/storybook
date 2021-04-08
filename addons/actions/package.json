@@ -81,5 +81,8 @@
       "react-native"
     ],
     "icon": "https://user-images.githubusercontent.com/263385/101991666-479cc600-3c7c-11eb-837b-be4e5ffa1bb8.png"
+  },
+  "engines": {
+    "node": ">=10.13.0"
   }
 }

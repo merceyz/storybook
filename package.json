@@ -328,5 +328,9 @@
         "Other"
       ]
     ]
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/storybookjs/storybook/issues"
+  },
+  "license": "MIT"
 }

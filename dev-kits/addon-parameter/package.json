@@ -8,14 +8,14 @@
     "parameter",
     "storybook"
   ],
-  "homepage": "https://github.com/storybookjs/storybook#readme",
+  "homepage": "https://github.com/storybookjs/storybook/tree/master/dev-kits/addon-parameter",
   "bugs": {
     "url": "https://github.com/storybookjs/storybook/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/storybookjs/storybook.git",
-    "directory": "dev-kit/addon-parameter"
+    "url": "https://github.com/storybookjs/storybook.git",
+    "directory": "dev-kits/addon-parameter"
   },
   "license": "MIT",
   "main": "dist/cjs/index.js",
@@ -39,5 +39,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "7739aace24e8614f2acc9972b2ae44cf7f228c18"
+  "gitHead": "7739aace24e8614f2acc9972b2ae44cf7f228c18",
+  "engines": {
+    "node": ">=10.13.0"
+  }
 }

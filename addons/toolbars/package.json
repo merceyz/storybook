@@ -11,7 +11,7 @@
     "test",
     "essentials"
   ],
-  "homepage": "https://github.com/storybookjs/storybook/tree/next/addons/toolbars",
+  "homepage": "https://github.com/storybookjs/storybook/tree/master/addons/toolbars",
   "bugs": {
     "url": "https://github.com/storybookjs/storybook/issues"
   },
@@ -69,5 +69,8 @@
     "unsupportedFrameworks": [
       "react-native"
     ]
+  },
+  "engines": {
+    "node": ">=10.13.0"
   }
 }

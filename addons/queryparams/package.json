@@ -8,14 +8,14 @@
     "storybook",
     "data-state"
   ],
-  "homepage": "https://github.com/storybookjs/storybook#readme",
+  "homepage": "https://github.com/storybookjs/storybook/tree/master/addons/queryparams",
   "bugs": {
     "url": "https://github.com/storybookjs/storybook/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/storybookjs/storybook.git",
-    "directory": "addons/addon-queryparams"
+    "url": "https://github.com/storybookjs/storybook.git",
+    "directory": "addons/queryparams"
   },
   "license": "MIT",
   "main": "dist/cjs/index.js",
@@ -74,5 +74,8 @@
     "unsupportedFrameworks": [
       "react-native"
     ]
+  },
+  "engines": {
+    "node": ">=10.13.0"
   }
 }

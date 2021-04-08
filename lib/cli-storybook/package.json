@@ -5,14 +5,14 @@
   "keywords": [
     "storybook"
   ],
-  "homepage": "https://github.com/storybookjs/storybook/tree/master/lib/cli",
+  "homepage": "https://github.com/storybookjs/storybook/tree/master/lib/cli-storybook",
   "bugs": {
     "url": "https://github.com/storybookjs/storybook/issues"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/storybookjs/storybook.git",
-    "directory": "lib/cli"
+    "directory": "lib/cli-storybook"
   },
   "license": "MIT",
   "bin": {
@@ -28,5 +28,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "7739aace24e8614f2acc9972b2ae44cf7f228c18"
+  "gitHead": "7739aace24e8614f2acc9972b2ae44cf7f228c18",
+  "engines": {
+    "node": ">=10.13.0"
+  }
 }

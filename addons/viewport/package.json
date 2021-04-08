@@ -72,5 +72,8 @@
     "unsupportedFrameworks": [
       "react-native"
     ]
+  },
+  "engines": {
+    "node": ">=10.13.0"
   }
 }

@@ -9,7 +9,7 @@
     "storybook",
     "style"
   ],
-  "homepage": "https://storybook.js.org",
+  "homepage": "https://github.com/storybookjs/storybook/tree/master/addons/cssresources",
   "bugs": {
     "url": "https://github.com/storybookjs/storybook/issues"
   },
@@ -73,5 +73,8 @@
     "unsupportedFrameworks": [
       "react-native"
     ]
+  },
+  "engines": {
+    "node": ">=10.13.0"
   }
 }
